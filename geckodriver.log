@@ -82,3 +82,37 @@ console.error:
 observe@resource://gre/modules/AsyncShutdown.jsm:534:9
 
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576487260832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEeD0Xp"
+1576487261489	Marionette	INFO	Enabled via --marionette
+1576487264293	Marionette	INFO	Listening on port 43839
+1576487264548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576487264599	Marionette	DEBUG	Register listener.js for window 2147483649
+1576487264612	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576487264877	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576487264877	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576487264886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576487265085	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576487291389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiFm3jM"
+1576487292035	Marionette	INFO	Enabled via --marionette
+1576487295107	Marionette	INFO	Listening on port 44529
+1576487295207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576487295258	Marionette	DEBUG	Register listener.js for window 2147483649
+1576487295274	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576487295334	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576487295334	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576487295424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576487295429	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576487628040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN7szhB"
+1576487628672	Marionette	INFO	Enabled via --marionette
+1576487631803	Marionette	INFO	Listening on port 32957
+1576487631856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576487631907	Marionette	DEBUG	Register listener.js for window 2147483649
+1576487631926	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576487631942	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576487631942	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576487631946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576487631948	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1576487632015	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
