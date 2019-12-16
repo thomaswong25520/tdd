@@ -1,0 +1,22 @@
+1576482489241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8jbGio"
+1576482489809	Marionette	INFO	Enabled via --marionette
+1576482492381	Marionette	INFO	Listening on port 35559
+1576482492658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576482492708	Marionette	DEBUG	Register listener.js for window 2147483649
+1576482492723	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576482492738	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576482492739	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576482492739	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576482492761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8000/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8000."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576482660579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexaCY3h"
+1576482661230	Marionette	INFO	Enabled via --marionette
+1576482663979	Marionette	INFO	Listening on port 41439
+1576482664003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576482664053	Marionette	DEBUG	Register listener.js for window 2147483649
+1576482664067	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576482664129	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576482664129	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576482664135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576482664200	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
