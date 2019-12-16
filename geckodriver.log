@@ -20,3 +20,65 @@
 1576482664135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
 1576482664200	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576483937000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO41xd8"
+1576483937589	Marionette	INFO	Enabled via --marionette
+1576483940524	Marionette	INFO	Listening on port 40919
+1576483940713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576483940765	Marionette	DEBUG	Register listener.js for window 2147483649
+1576483940791	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576483940814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576483940814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576483940820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576483940834	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576483992421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWb3ZeW"
+1576483993025	Marionette	INFO	Enabled via --marionette
+1576483995653	Marionette	INFO	Listening on port 36369
+1576483995934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576483995984	Marionette	DEBUG	Register listener.js for window 2147483649
+1576483996010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576483996023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576483996023	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576483996028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576483996042	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576484086574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYcnOd4"
+1576484087218	Marionette	INFO	Enabled via --marionette
+1576484090046	Marionette	INFO	Listening on port 40131
+1576484090291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576484090341	Marionette	DEBUG	Register listener.js for window 2147483649
+1576484090362	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576484090376	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576484090377	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576484090382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576484090397	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576484779170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2DRknf"
+1576484779866	Marionette	INFO	Enabled via --marionette
+1576484782608	Marionette	INFO	Listening on port 33221
+1576484782899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576484782949	Marionette	DEBUG	Register listener.js for window 2147483649
+1576484782967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576484782981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576484782982	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576484782983	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576484783003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8000/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8000."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576484807015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile08Qvzn"
+1576484807657	Marionette	INFO	Enabled via --marionette
+1576484810370	Marionette	INFO	Listening on port 39383
+1576484810628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576484810678	Marionette	DEBUG	Register listener.js for window 2147483649
+1576484810692	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576484810706	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576484810706	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576484810713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576484810728	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1576484810767	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
