@@ -452,3 +452,80 @@ JavaScript error: resource://pdf.js/PdfJs.jsm, line 251: NS_ERROR_XPC_JAVASCRIPT
 1576578231438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
 1576578231447	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576597360170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEv3YJN"
+1576597360822	Marionette	INFO	Enabled via --marionette
+1576597363840	Marionette	INFO	Listening on port 39389
+1576597363889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576597363951	Marionette	DEBUG	Register listener.js for window 2147483649
+1576597363980	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576597364135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576597364135	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576597364149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576597364315	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576597834696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW54R2f"
+1576597835315	Marionette	INFO	Enabled via --marionette
+1576597838266	Marionette	INFO	Listening on port 43261
+1576597838312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576597838363	Marionette	DEBUG	Register listener.js for window 2147483649
+1576597838383	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576597838393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576597838393	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576597838408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576597838411	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576597876804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8z4LmA"
+1576597877451	Marionette	INFO	Enabled via --marionette
+1576597880539	Marionette	INFO	Listening on port 40229
+1576597880615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576597880666	Marionette	DEBUG	Register listener.js for window 2147483649
+1576597880679	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576597880691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576597880691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576597880696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576597880708	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576597892547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8yrS5a"
+1576597893170	Marionette	INFO	Enabled via --marionette
+1576597895975	Marionette	INFO	Listening on port 46317
+1576597896157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576597896214	Marionette	DEBUG	Register listener.js for window 2147483649
+1576597896235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576597896251	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576597896251	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576597896270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576597896274	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576610337393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCPgmRC"
+1576610338024	Marionette	INFO	Enabled via --marionette
+1576610340800	Marionette	INFO	Listening on port 43877
+1576610340821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576610340880	Marionette	DEBUG	Register listener.js for window 2147483649
+1576610341011	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576610341035	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576610341036	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576610341042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576610341055	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576610348020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEeY59y"
+1576610348712	Marionette	INFO	Enabled via --marionette
+1576610351353	Marionette	INFO	Listening on port 45695
+1576610351663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576610351724	Marionette	DEBUG	Register listener.js for window 2147483649
+1576610351741	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576610351756	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576610351757	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576610351763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1576610351778	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1576610551634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOo7hTE"
+1576610552353	Marionette	INFO	Enabled via --marionette
+1576610555533	Marionette	INFO	Listening on port 33865
+1576610555552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576610555607	Marionette	DEBUG	Register listener.js for window 2147483649
+1576610555624	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1576610555651	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1576610555651	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1576610555658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55831/"
+1576610555669	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55831/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
