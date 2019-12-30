@@ -1880,3 +1880,70 @@ JavaScript error: resource://shield-recipe-client/lib/NormandyApi.jsm, line 60: 
 1577522711651	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1577522711677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//superlists-staging.ottg.eu/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20superlists-staging.ottg.eu."
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1577720860945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile34BoDW"
+1577720864922	Marionette	INFO	Enabled via --marionette
+1577720872179	Marionette	INFO	Listening on port 39711
+1577720872216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577720872265	Marionette	DEBUG	Register listener.js for window 2147483649
+1577720872673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720873159	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720873191	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1577720873192	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1577720873316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//superlists-stating-abc.site/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20superlists-stating-abc.site."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1577720875514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEPcCr3"
+1577720876161	Marionette	INFO	Enabled via --marionette
+1577720879448	Marionette	INFO	Listening on port 36479
+1577720879536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577720879590	Marionette	DEBUG	Register listener.js for window 2147483649
+1577720879609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720879753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720879757	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1577720879758	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1577720879795	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//superlists-stating-abc.site/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20superlists-stating-abc.site."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1577720882132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet96Gex"
+1577720882737	Marionette	INFO	Enabled via --marionette
+1577720885620	Marionette	INFO	Listening on port 45461
+1577720885846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577720885896	Marionette	DEBUG	Register listener.js for window 2147483649
+1577720885919	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720886381	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720886385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1577720886385	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1577720886421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//superlists-stating-abc.site/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20superlists-stating-abc.site."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1577720931095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVURq09"
+1577720931721	Marionette	INFO	Enabled via --marionette
+1577720934591	Marionette	INFO	Listening on port 33091
+1577720934616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577720934671	Marionette	DEBUG	Register listener.js for window 2147483649
+1577720934825	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720935146	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1577720935147	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1577720935157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://superlists-staging-abc.site/"
+1577720935187	Marionette	DEBUG	Received DOM event "pageshow" for "http://superlists-staging-abc.site/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1577720937215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5vjgt9"
+1577720937853	Marionette	INFO	Enabled via --marionette
+1577720940670	Marionette	INFO	Listening on port 33521
+1577720940926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577720940979	Marionette	DEBUG	Register listener.js for window 2147483649
+1577720940994	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720941244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1577720941245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1577720941254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://superlists-staging-abc.site/"
+1577720941268	Marionette	DEBUG	Received DOM event "pageshow" for "http://superlists-staging-abc.site/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1577720943445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYzovar"
+1577720944061	Marionette	INFO	Enabled via --marionette
+1577720947278	Marionette	INFO	Listening on port 41029
+1577720947357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577720947409	Marionette	DEBUG	Register listener.js for window 2147483649
+1577720947424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1577720947467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1577720947467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1577720947472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://superlists-staging-abc.site/"
+1577720947488	Marionette	DEBUG	Received DOM event "pageshow" for "http://superlists-staging-abc.site/"
+1577720947535	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
